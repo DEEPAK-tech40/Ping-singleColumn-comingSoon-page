@@ -4,6 +4,9 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ## Overview
 
+![desktop-preview](https://user-images.githubusercontent.com/94350356/202334444-ba4dc962-97b0-4948-879d-96ae32df5054.jpg)
+
+
 ### The challenge
 
 Users should be able to:
@@ -16,6 +19,15 @@ Users should be able to:
   - The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say _"Please provide a valid email address"_
 
 ### Screenshot
+
+Dektop-view:
+
+![desktop-design](https://user-images.githubusercontent.com/94350356/202334486-e7aa43f1-9735-47d7-acc1-531e958a361b.jpg)
+
+Mobile-view:
+
+![mobile-design](https://user-images.githubusercontent.com/94350356/202334544-b4e532f1-8656-41e9-a388-b5a07689ffb2.jpg)
+
 
 ### Links
 
@@ -58,4 +70,4 @@ function validate(event) {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@DEEPAK-tech40](https://www.frontendmentor.io/profile/DEEPAK-tech40)

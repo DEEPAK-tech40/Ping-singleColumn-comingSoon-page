@@ -31,8 +31,8 @@ Mobile-view:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/pingsinglecolumncomingsoonpage-cP319U4Ixw)
+- Live Site URL: [Live site](https://deepaktech40-ping-comingsoon-page.netlify.app/)
 
 ## My process
 

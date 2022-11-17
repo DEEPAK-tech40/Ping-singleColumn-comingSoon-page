@@ -1,0 +1,1 @@
+# Ping-singleColumn-comingSoon-page
